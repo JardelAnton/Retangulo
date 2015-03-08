@@ -3,7 +3,7 @@ class Retangulo{
 	public int width;
 
 	public void area(){
-		System.out.println("Area = "+this.width*this.height);
+		System.out.println("Area = "+this.width*this.height+"u.c²");
 	}
 	public void perimetro(){
 		System.out.println("Perimetro = "+((2*this.width)+(2*this.height)));
