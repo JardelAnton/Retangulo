@@ -4,6 +4,7 @@ class main{
 	r1=new Retangulo();
 	r1.width=9;
 	r1.height=10;
-	r1.oi();
+	r1.area();
+	r1.perimetro();
 }
 }
