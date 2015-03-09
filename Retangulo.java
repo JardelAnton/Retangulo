@@ -1,6 +1,6 @@
 class Retangulo{
-	public int height;
-	public int width;
+	public Double height;
+	public Double width;
 
 	public void area(){
 		System.out.println("Area = "+this.width*this.height+" u.a");
